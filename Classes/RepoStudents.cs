@@ -35,6 +35,7 @@ namespace Constructors_Кокорин.Classes
             allStudent.Add(new Student("Халилов", "Дамир", "Ринатович"));
             allStudent.Add(new Student("Шестаков", "Дмитрий", "Андреевич"));
             return allStudent;
+
         }
     }
 }
